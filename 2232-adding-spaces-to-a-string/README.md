@@ -1,3 +1,6 @@
+<p> Comments after submitting and reviewing:</p>
+<p> Realllyy slow lol. Many solutions instead built a string res of length s.size() + spaces.size() with empty chars, which is clever! Then instead of pushing to a vec just directly added the chars from the string s onto the res. Two points like index and j was the general idea though so thats nice.</p>
+
 <h2><a href="https://leetcode.com/problems/adding-spaces-to-a-string">2232. Adding Spaces to a String</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> string <code>s</code> and a <strong>0-indexed</strong> integer array <code>spaces</code> that describes the indices in the original string where spaces will be added. Each space should be inserted <strong>before</strong> the character at the given index.</p>
 
 <ul>
