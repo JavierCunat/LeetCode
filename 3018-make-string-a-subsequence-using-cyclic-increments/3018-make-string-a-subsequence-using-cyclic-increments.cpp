@@ -9,6 +9,7 @@ public:
             (str1[i] == 'z' && str2[j] == 'a')) {
             j++;
         }
+        if(j == str2.size()) { return true; }
         i++;
     }
 
