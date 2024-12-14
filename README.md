@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/JavierCunat/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0392-is-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JavierCunat/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
