@@ -77,18 +77,22 @@ Lock IN 🚀🤓
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
