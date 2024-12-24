@@ -53,6 +53,7 @@ Lock IN 🚀🤓
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JavierCunat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@ Lock IN 🚀🤓
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -93,6 +95,7 @@ Lock IN 🚀🤓
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
@@ -103,4 +106,12 @@ Lock IN 🚀🤓
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
