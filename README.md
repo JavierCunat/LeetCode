@@ -25,6 +25,7 @@ Lock IN 🚀🤓
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/JavierCunat/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0392-is-subsequence) |
@@ -71,6 +72,7 @@ Lock IN 🚀🤓
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
@@ -110,8 +112,17 @@ Lock IN 🚀🤓
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
