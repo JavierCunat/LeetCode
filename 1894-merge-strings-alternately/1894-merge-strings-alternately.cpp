@@ -1,24 +1,23 @@
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
+        //optomized version
         string res = "";
-        long a = 0, b = 0;
+        int a = 0, b = 0;
+        int w1 = word1.size(), w2 = word2.size() ; //do this here instead of loop to not calculate many times
+        res.reserve(w1+w2); //reserve space for res string ensures no repeated resizing/copying during concatination
 
-        while(a < word1.size() && b < word2.size() ) {
-            res+=word1[a];
-            a++;
-            res+=word2[b];
-            b++;
+        while(a < w1 && b < w2) {
+            res+=word1[a++];
+            res+=word2[b++];
         }
 
-        while(a < word1.size()) {
-            res+=word1[a];
-            a++;
+        //can do while loop similar to above but apparently append is faster!
+        if(a < w1) {
+            res.append(word1.begin() + a, word1.end());
         }
-
-        while(b < word2.size()) {
-            res+=word2[b];
-            b++;
+        if(b < w2) {
+            res.append(word2.begin() + b, word2.end());
         }
 
         return res;
