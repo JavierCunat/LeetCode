@@ -16,20 +16,20 @@ public:
     //if we find that the first pointer is already not a vowel we can increase and just continue instead of overhead
     //same for second pointer
     //use swap function instead of making a temp and doing manual swapping
+    //instead of hash set we can make our own vector to directly access the index without it needing to do hashing
+    //lmao this gets to the point where the code is complicated and not very readable but fast nonetheless
     string reverseVowels(string s) {
-    int i = 0;
-    int j = s.size()-1;
-    static const unordered_set<char> vowels = {'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U'};
+    int i = 0, j = s.size()-1;
+    static const vector<bool> isVowel = []() {
+    vector<bool> v(256, false);
+    v['a'] = v['e'] = v['i'] = v['o'] = v['u'] = true;
+    v['A'] = v['E'] = v['I'] = v['O'] = v['U'] = true;
+    return v;
+    }();
 
-    while(i < j) {
-        if(!vowels.count(s[i])) {
-            i++;
-            continue;
-        }
-        if(!vowels.count(s[j])) {
-            j--;
-            continue;
-        }
+    while(i <= j) {
+        if(!isVowel[s[i]]) { i++; continue; }
+        if(!isVowel[s[j]]) { j--; continue; }
        swap(s[i], s[j]);
        i++;
        j--;
