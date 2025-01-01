@@ -11,7 +11,7 @@ public:
     //3. if found swap, if not don't change anything
     //4. return reversed string vowels
 
-    //intuition works but we can optimize
+    //intuition works but we can optimize from beats 14% to 42%
     //use static const for hash set
     //if we find that the first pointer is already not a vowel we can increase and just continue instead of overhead
     //same for second pointer
@@ -21,7 +21,7 @@ public:
     int j = s.size()-1;
     static const unordered_set<char> vowels = {'a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U'};
 
-    while(i <= j) {
+    while(i < j) {
         if(!vowels.count(s[i])) {
             i++;
             continue;
