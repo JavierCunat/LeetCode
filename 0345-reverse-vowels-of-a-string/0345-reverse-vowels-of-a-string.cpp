@@ -11,7 +11,7 @@ public:
     //3. if found swap, if not don't change anything
     //4. return reversed string vowels
 
-    //intuition works but we can optimize from beats 14% to 42%
+    //intuition works but we can optimize from beats 14% to 42% to 100% using precomputed table with all 256 vals
     //use static const for hash set
     //if we find that the first pointer is already not a vowel we can increase and just continue instead of overhead
     //same for second pointer
