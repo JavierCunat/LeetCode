@@ -64,6 +64,7 @@ Lock IN 🚀🤓
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JavierCunat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/JavierCunat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JavierCunat/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -134,4 +135,8 @@ Lock IN 🚀🤓
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JavierCunat/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
