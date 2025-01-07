@@ -1,21 +1,16 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        //brute force with two pointers
+        //brute force with two pointers beats 100% :)
+        //optimized space complexity by removing redundance distsance var and also use max() method
         int i = 0, j = height.size()-1;
-        int distance = j-i;
         int resArea = INT_MIN;
 
         while(i < j) {
-            int maxHeight = min(height[i], height[j]);
-            int area = maxHeight * distance;
-            if(area > resArea) {
-                resArea = maxHeight*distance;
-            }
-
-            (height[i] >= height[j]) ? j-- : i++; //move the smaller height bar and keep the largest
-
-            distance = j-i;
+            int curArea = min(height[i], height[j]) * (j-i);
+            resArea = max(resArea, curArea);
+          
+            (height[i] >= height[j]) ? j-- : i++; //move the pointer pointing to the smaller height
         }
 
         return resArea;
