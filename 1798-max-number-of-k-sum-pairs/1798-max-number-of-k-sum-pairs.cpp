@@ -1,20 +1,18 @@
 class Solution {
 public:
     int maxOperations(vector<int>& nums, int k) {
-        //first try O(n log n) intuitive approach with sorting and two pointers
-        int i = 0, res = 0, j = nums.size()-1;
-        sort(nums.begin(), nums.end());
+        //first try O(n log n) intuitive approach with sorting and two pointers beats 41%
+        //optimize by using an unordered map and iterating through each elem in nums, store each complement with the amount of times it has appeared. If the complement is in the map add to res and remove else add the regular num
+        unordered_map<int,int> map;
+        int res = 0;
 
-        while(i < j) {
-            if(nums[i] + nums[j] == k) {
+        for(int num : nums) {
+            int complement = k - num;
+            if(map[complement] > 0) {
                 res++;
-                i++;
-                j--;
-            }
-            else if(nums[i] + nums[j] < k){
-                i++;
+                map[complement]--;
             } else {
-                j--;
+                map[num]++;
             }
         }
 
