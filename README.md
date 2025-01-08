@@ -36,6 +36,7 @@ Lock IN 🚀🤓
 | [0443-string-compression](https://github.com/JavierCunat/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JavierCunat/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/JavierCunat/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -75,6 +76,7 @@ Lock IN 🚀🤓
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JavierCunat/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
@@ -85,11 +87,13 @@ Lock IN 🚀🤓
 | ------- |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Recursion
 |  |
 | ------- |
