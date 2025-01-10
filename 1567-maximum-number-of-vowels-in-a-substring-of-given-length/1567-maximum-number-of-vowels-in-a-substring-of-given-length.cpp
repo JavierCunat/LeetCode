@@ -1,13 +1,14 @@
 class Solution {
 public:
     int maxVowels(string s, int k) {
+        //second attempt I use direct checks instead of hash set to see if optimizes
         int size = s.size();
         int count = 0, maxVowels = 0;
-        unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u'};
+        //unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u'};
 
         //do the sliding window approach of setting the first window
         for(int i = 0; i < k; i++) {
-            if(vowels.count(s[i]) > 0) {
+            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
                 count++;
             }
         }
@@ -17,11 +18,11 @@ public:
         for(int i = k; i < size; i++) {
             if(maxVowels == k) {return k;}
             //remove oldest char
-            if(vowels.count(s[i-k]) > 0) {
+            if(s[i-k] == 'a' || s[i-k] == 'e' || s[i-k] == 'i' || s[i-k] == 'o' || s[i-k] == 'u') {
                 count--;
             } 
             //add newest char
-            if(vowels.count(s[i]) > 0) {
+            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
                 count++;
             }
 
