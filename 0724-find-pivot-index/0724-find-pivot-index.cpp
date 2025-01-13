@@ -3,11 +3,8 @@ public:
     int pivotIndex(vector<int>& nums) {
        //optimized to O(n) by keeping a prefix sum of array
        int size = nums.size();
-       int sum = 0, lhs = 0;
-
-       for(int num : nums) {
-        sum+=num;
-       }
+       int lhs = 0;
+       int sum = accumulate(nums.begin(), nums.end(), 0);
 
        for(int i = 0; i < size; i++) {
         //check if leftsum equals rightsum
