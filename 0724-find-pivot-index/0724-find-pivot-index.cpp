@@ -1,31 +1,18 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        //brute force O(n^2)
+       //optimized to O(n) by keeping a prefix sum of array
        int size = nums.size();
+       int sum = 0, lhs = 0;
+
+       for(int num : nums) {
+        sum+=num;
+       }
 
        for(int i = 0; i < size; i++) {
-        int left = 0;
-        int right = i+1;
-        int lhs = 0, rhs = 0;
-
-        while(left < i && right < size) {
-            lhs+=nums[left++];
-            rhs+=nums[right++];
-        }
-
-        while(left < i) {
-            lhs+=nums[left++];
-        }
-
-        while(right < size) {
-            rhs+=nums[right++];
-        }
-
-        if(lhs == rhs) {
-            return i;
-        } 
-        
+        //check if leftsum equals rightsum
+        if(lhs == sum-nums[i]-lhs) { return i; }
+        lhs+=nums[i];
        }
 
        return -1;
