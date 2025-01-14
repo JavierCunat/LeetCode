@@ -1,21 +1,19 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
+        //optimized to 
         unordered_map<int, int> occurrences;
-        unordered_set<int> set;
 
         for(int n : arr) {
             occurrences[n]++;
         }
 
-        for(const auto& pair : occurrences) {
-            if(set.count(pair.second) > 0) {
-                return false;
-            } else {
-                set.insert(pair.second);
-            }
+        unordered_set<int> set;
+
+        for(const auto& pair : occurrences) { //can also just do auto x : occurences
+            set.insert(pair.second);
         }
 
-        return true;
+        return occurrences.size() == set.size(); //if the set has a smaller size than occurences that means there was two of the same occurences in the map and should return false
     }
 };
