@@ -12,16 +12,12 @@
 class Solution {
 public:
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        //brute force with two arrays
+        //apparently with arrays like this is the best approach O(n+m) n size of tree 1 m size of tree 2 beats 100%
         vector<int> tree1, tree2;
         treeLeaves(root1, tree1);
         treeLeaves(root2, tree2);
-        int size1 = tree1.size(), size2 = tree2.size();
-        if(size1 != size2) return false;
-        for(int i = 0; i < size1; i++) {
-            if(tree1[i] != tree2[i]) return false;
-        }
-        return true;
+
+        return tree1 == tree2;        
     }
 
     void treeLeaves(TreeNode* root, vector<int>& seq) {
