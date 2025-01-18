@@ -21,9 +21,7 @@ public:
 
     void goodNodes(TreeNode* root, int prev, int& goodCount) {
         if(root != nullptr) {
-            if(root->val >= prev) {
-                goodCount++;
-            }
+            if(root->val >= prev) { goodCount++;}
             goodNodes(root->left, max(prev, root->val), goodCount);
             goodNodes(root->right, max(prev, root->val), goodCount);
         }
