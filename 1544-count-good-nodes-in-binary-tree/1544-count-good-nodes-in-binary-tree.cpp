@@ -12,18 +12,18 @@
 class Solution {
 public:
     int goodNodes(TreeNode* root) {
-        int goodCount = 0;
-        if(root != nullptr) {
-            goodNodes(root, root->val, goodCount);
-        }
-        return goodCount;
+        //optimized to only need two params
+       return goodNodes(root, root->val);
     }
 
-    void goodNodes(TreeNode* root, int prev, int& goodCount) {
-        if(root != nullptr) {
-            if(root->val >= prev) { goodCount++;}
-            goodNodes(root->left, max(prev, root->val), goodCount);
-            goodNodes(root->right, max(prev, root->val), goodCount);
-        }
+    int goodNodes(TreeNode* root, int prev) {
+        if (!root) return 0;
+        int count= 0;
+        if(root->val >= prev) {
+            count = 1;
+        } 
+        count+= goodNodes(root->left, max(prev, root->val));
+        count+= goodNodes(root->right, max(prev, root->val));
+        return count;
     }
 };
