@@ -115,6 +115,7 @@ Lock IN 🚀🤓
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -125,6 +126,7 @@ Lock IN 🚀🤓
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/JavierCunat/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -140,6 +142,7 @@ Lock IN 🚀🤓
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -195,4 +198,8 @@ Lock IN 🚀🤓
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
