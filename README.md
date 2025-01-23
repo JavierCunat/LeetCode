@@ -90,10 +90,12 @@ Completing LeetCode 75🎯
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/JavierCunat/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Completing LeetCode 75🎯
 | [1392-find-the-difference-of-two-arrays](https://github.com/JavierCunat/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -209,4 +212,8 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
