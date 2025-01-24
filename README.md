@@ -61,6 +61,7 @@ Completing LeetCode 75🎯
 | [1894-merge-strings-alternately](https://github.com/JavierCunat/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JavierCunat/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String Matching
 |  |
@@ -96,6 +97,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
