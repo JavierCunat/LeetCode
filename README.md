@@ -76,6 +76,7 @@ Completing LeetCode 75🎯
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JavierCunat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/JavierCunat/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JavierCunat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JavierCunat/LeetCode/tree/master/0283-move-zeroes) |
@@ -223,5 +224,6 @@ Completing LeetCode 75🎯
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/JavierCunat/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/JavierCunat/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
