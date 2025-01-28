@@ -120,6 +120,7 @@ Completing LeetCode 75🎯
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -190,6 +191,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JavierCunat/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
