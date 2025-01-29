@@ -229,4 +229,16 @@ Completing LeetCode 75🎯
 | [0136-single-number](https://github.com/JavierCunat/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/JavierCunat/LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JavierCunat/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/JavierCunat/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/JavierCunat/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/JavierCunat/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
