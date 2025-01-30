@@ -167,6 +167,7 @@ Completing LeetCode 75🎯
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/JavierCunat/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/JavierCunat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
@@ -241,4 +242,8 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/JavierCunat/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/JavierCunat/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
