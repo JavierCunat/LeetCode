@@ -10,32 +10,35 @@
  * };
  */
 class Solution {
-public:
-    int maxLevelSum(TreeNode* root) {
-         //level order traversal store the max sum return that level
-        int level = 1;
-        queue<TreeNode*> q;
-        q.push(root);
-        int max = INT_MIN;
-        int maxLevel = 1;
+private:
+    void dfs(vector<int>& level_sum, int cur_level, TreeNode *root) {
+        if (!root) return;
 
-        while(!q.empty()) {
-            size_t size = q.size();
-            int levelMax = 0;
-            for(size_t i = 0; i < size; i++) {
-                TreeNode* node = q.front();
-                q.pop();
-                levelMax += node->val;
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-            }
-            if(levelMax > max) {
-                max = levelMax;
-                maxLevel = level;
-            }
-            level++;
+        if (level_sum.size() <= cur_level) {
+            level_sum.push_back(root -> val);
+        } else {
+            level_sum[cur_level] += root -> val;
         }
 
-        return maxLevel;
+        dfs(level_sum, cur_level+1, root -> left);
+        dfs(level_sum, cur_level+1, root -> right);
+    }
+public:
+    int maxLevelSum(TreeNode* root) {
+        vector<int> sums;
+        dfs(sums, 0, root);
+
+        int max = INT_MIN;
+        int max_i = -1;
+
+        for(int i=0; i < sums.size(); i++) {
+            if(sums[i] > max){
+                max = sums[i];
+                max_i = i;
+            }
+        }
+
+
+        return max_i + 1;
     }
 };
