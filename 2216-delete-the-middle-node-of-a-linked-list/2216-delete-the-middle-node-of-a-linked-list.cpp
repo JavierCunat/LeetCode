@@ -11,27 +11,20 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        //use one fast and one slow pointer to traverse through the linked list
-        //lmao don't remember how to do that way so can just iterate through list get len and then we know the mid is len/2
-        int lenOfList = 0;
-        for(ListNode* temp = head; temp != nullptr; temp = temp->next) {
-            lenOfList++;
+        //alother other solution is easier to visualize this one is nice to use fast/slow pointer
+        //and not doing any actual deletion operation
+       if(head == nullptr) return nullptr;
+
+        ListNode* prev = new ListNode(0);
+        prev->next = head;
+        ListNode* slow = prev;
+        ListNode* fast = head;
+        while(fast != nullptr && fast->next != nullptr) {
+            fast = fast->next->next;
+            slow = slow->next;
         }
 
-        if(lenOfList == 1) return nullptr;
-
-        ListNode* prevToDelete = nullptr;
-        ListNode* toDelete = head;
-        for(int i = 0; i < lenOfList/2; i++) {
-            prevToDelete = toDelete;
-            toDelete = toDelete->next;
-        }
-
-        //rewirte and delete mid node
-        ListNode* next = toDelete->next;
-        prevToDelete->next = next;
-        delete toDelete;
-
-        return head;
+        slow->next = slow->next->next;
+        return prev->next;
     }
 };
