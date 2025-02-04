@@ -15,21 +15,17 @@ public:
         if(head == nullptr) return nullptr;
 
         //one pointer to start at the evens
-        ListNode* res = new ListNode(0);
-        res->next = head;
         ListNode* evens = head->next;
         ListNode* evenshead = evens;
         ListNode* curr = head;
         while(evens != nullptr && evens->next != nullptr) {
             curr->next = curr->next->next;
             evens->next = evens->next->next;
-
             curr = curr->next;
             evens = evens->next;
         }
 
         curr->next = evenshead;
-
-        return res->next;
+        return head;
     }
 };
