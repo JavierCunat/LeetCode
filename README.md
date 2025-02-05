@@ -85,6 +85,7 @@ Completing LeetCode 75🎯
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JavierCunat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JavierCunat/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/JavierCunat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/JavierCunat/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -98,6 +99,7 @@ Completing LeetCode 75🎯
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -233,6 +235,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
