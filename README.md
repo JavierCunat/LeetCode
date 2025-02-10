@@ -142,6 +142,7 @@ Completing LeetCode 75🎯
 | [0450-delete-node-in-a-bst](https://github.com/JavierCunat/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/JavierCunat/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -167,6 +168,7 @@ Completing LeetCode 75🎯
 | [0104-maximum-depth-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JavierCunat/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -185,6 +187,7 @@ Completing LeetCode 75🎯
 | [0450-delete-node-in-a-bst](https://github.com/JavierCunat/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/JavierCunat/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
