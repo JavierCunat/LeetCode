@@ -7,8 +7,8 @@ public:
         size_t numberOfones = n ^ k;
         size_t changes = 0;
         while(numberOfones > 0) {
-            changes+= numberOfones % 2;
-            numberOfones/=2;
+            changes+= numberOfones & 1; //same as doing % 2 to check if last bit is 1 or 0
+            numberOfones >>= 1; //same as doing numberOfOnes=/2
         }
         return changes;
     }
