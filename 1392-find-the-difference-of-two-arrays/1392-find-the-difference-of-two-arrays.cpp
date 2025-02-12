@@ -2,8 +2,11 @@ class Solution {
 public:
 
     vector<int> getElemsOnlyInFirstList(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int> onlyInNums1;
+       unordered_set<int> onlyInNums1;
        unordered_set<int> existsInNum2;
+        //have a midterm today so for my daily code I'll review this problem that I did a long time ago
+        //sometimes I look at these solutions and like wow this was neat!
+        //instead of making a function like this we can put both in sets and then remove the indistinct ones I think
 
        for(int num : nums2) {
         existsInNum2.insert(num);
