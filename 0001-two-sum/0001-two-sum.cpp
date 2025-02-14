@@ -6,7 +6,7 @@ public:
         unordered_map<int, int> map;
         int size = nums.size();
 
-        //fill map
+        //fill map with array elems and try to find complement of curr elem
         for(int i = 0; i < size; i++) {
             int complement = target - nums[i];
             if(map.count(complement) > 0) {
