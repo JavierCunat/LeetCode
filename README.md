@@ -54,6 +54,7 @@ Completing LeetCode 75🎯
 | [0151-reverse-words-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/JavierCunat/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/JavierCunat/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -128,6 +129,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/JavierCunat/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
@@ -252,6 +254,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/JavierCunat/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
