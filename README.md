@@ -83,6 +83,7 @@ Completing LeetCode 75🎯
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JavierCunat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JavierCunat/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/JavierCunat/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JavierCunat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JavierCunat/LeetCode/tree/master/0283-move-zeroes) |
@@ -207,6 +208,7 @@ Completing LeetCode 75🎯
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/JavierCunat/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/JavierCunat/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/JavierCunat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
