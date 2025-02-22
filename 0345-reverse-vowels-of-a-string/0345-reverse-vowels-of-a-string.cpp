@@ -1,5 +1,8 @@
 class Solution {
 public:
+    //looking over on 2/22/2025 bc working on bin bomb assignment and wont have time to do daily
+    //i remember doing this its pretty neat and simple intution using two pointers
+
     //edge cases 
     //empty string return empty string
     //odd n of vowels don't switch middle
