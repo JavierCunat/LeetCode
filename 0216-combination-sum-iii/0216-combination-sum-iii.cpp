@@ -9,6 +9,7 @@ public:
         }
 
         for(int i = index; i < 10; i++) {
+            if (i > n) break;  //optimization stop early if 'i' exceeds remaining sum
             currArr.push_back(i); //choose
             combinationSum3(k, n, res, currSum + i, currArr, i + 1); //explore
             currArr.pop_back(); //unchoose
