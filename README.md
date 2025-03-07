@@ -177,6 +177,7 @@ Completing LeetCode 75🎯
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/JavierCunat/LeetCode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/JavierCunat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/JavierCunat/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -192,6 +193,7 @@ Completing LeetCode 75🎯
 | [0104-maximum-depth-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JavierCunat/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -340,5 +342,10 @@ Completing LeetCode 75🎯
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
