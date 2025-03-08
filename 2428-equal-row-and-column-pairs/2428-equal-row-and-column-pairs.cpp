@@ -1,6 +1,6 @@
 class Solution {
 public:
-
+    //reviewed on 03/07/2025
     int equalPairs(vector<vector<int>>& grid) {
         //lc solution have to review
         map<vector<int>, int> counter;
