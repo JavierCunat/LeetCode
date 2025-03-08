@@ -184,6 +184,7 @@ Completing LeetCode 75🎯
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JavierCunat/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -198,6 +199,7 @@ Completing LeetCode 75🎯
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JavierCunat/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -344,6 +346,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JavierCunat/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
 | ------- |
