@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //reviewed on 3/16/2025
     int findPeakElement(vector<int>& nums) {
         //can do regular binsearch even though not fully sorted when there is a peak that part is sorted
         int left = 0, right = nums.size()-1;
