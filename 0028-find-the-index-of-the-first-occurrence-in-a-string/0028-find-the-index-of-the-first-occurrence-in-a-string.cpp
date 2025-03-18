@@ -1,5 +1,7 @@
 class Solution {
 public:
+//reviewed on 3/16/2025
+//did this in C in cs107 :D not as nice looking
     int strStr(string haystack, string needle) {
         if(haystack.size() < needle.size()) {
             return -1;
