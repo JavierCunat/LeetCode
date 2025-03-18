@@ -1,5 +1,6 @@
 class Solution {
 public:
+//reviewed on 3/17/2025
     bool canChange(string start, string target) {
         if(start == target) { return true; }
         int indexL = 0;
