@@ -74,6 +74,7 @@ Completing LeetCode 75🎯
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/JavierCunat/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JavierCunat/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String Matching
 |  |
@@ -250,6 +251,7 @@ Completing LeetCode 75🎯
 | [0649-dota2-senate](https://github.com/JavierCunat/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2636-maximum-subsequence-score](https://github.com/JavierCunat/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/JavierCunat/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
