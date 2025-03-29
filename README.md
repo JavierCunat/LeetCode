@@ -9,6 +9,7 @@ Completing LeetCode 75🎯
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Completing LeetCode 75🎯
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JavierCunat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/JavierCunat/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JavierCunat/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -136,6 +138,7 @@ Completing LeetCode 75🎯
 | [1392-find-the-difference-of-two-arrays](https://github.com/JavierCunat/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/JavierCunat/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -298,6 +301,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Stack
 |  |
 | ------- |
