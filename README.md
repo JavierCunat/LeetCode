@@ -46,6 +46,7 @@ Completing LeetCode 75🎯
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JavierCunat/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/JavierCunat/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -112,6 +113,7 @@ Completing LeetCode 75🎯
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JavierCunat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/JavierCunat/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JavierCunat/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -307,6 +309,7 @@ Completing LeetCode 75🎯
 ## Matrix
 |  |
 | ------- |
+| [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
