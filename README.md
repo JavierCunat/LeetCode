@@ -95,6 +95,7 @@ Completing LeetCode 75🎯
 | [0136-single-number](https://github.com/JavierCunat/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/JavierCunat/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/JavierCunat/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/JavierCunat/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/JavierCunat/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
@@ -189,6 +190,7 @@ Completing LeetCode 75🎯
 | [0104-maximum-depth-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JavierCunat/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/JavierCunat/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
@@ -209,6 +211,7 @@ Completing LeetCode 75🎯
 | [0102-binary-tree-level-order-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JavierCunat/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/JavierCunat/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
@@ -315,6 +318,7 @@ Completing LeetCode 75🎯
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JavierCunat/LeetCode/tree/master/0200-number-of-islands) |
 | [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
@@ -371,6 +375,7 @@ Completing LeetCode 75🎯
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JavierCunat/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 ## Shortest Path
