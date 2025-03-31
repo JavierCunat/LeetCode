@@ -1,29 +1,17 @@
 class Solution {
 public:
-    void dfs(
-        int row, int col, map<pair<int,int>, bool> &visited, int &count, int &rows, int &cols, vector<vector<char>>& grid
-        ) {
-        if(visited[{row, col}] == true || grid[row][col] == '0') return;
-        //mark visited
-        visited[{row, col}] = true;
+//optimization removed visisted set reducing time complexity and space used
+    void dfs(int row, int col, int &count, int &rows, int &cols, vector<vector<char>>& grid) {
+        if(row < 0 || col < 0 || row >= rows || col >= cols || grid[row][col] != '1') return;
+        //mark visited by changing grid to a v
+        grid[row][col] = 'v';
 
         //check adjacent chars and perform dfs on them to capture the entire island
-        if(row != 0 && !visited[{row - 1, col}]) {
-            dfs(row - 1, col, visited, count, rows, cols, grid);
-        }
-
-        if(row != rows-1 && !visited[{row + 1, col}]) {
-            dfs(row + 1, col, visited, count, rows, cols, grid);
-        }
-
-        if(col != 0 && !visited[{row, col-1}]) {
-            dfs(row, col - 1, visited, count, rows, cols, grid);
-        }
-
-        if(col != cols - 1 && !visited[{row, col + 1}]) {
-            dfs(row, col + 1, visited, count, rows, cols, grid);
-        }
-
+       
+        dfs(row - 1, col, count, rows, cols, grid); //up
+        dfs(row + 1, col, count, rows, cols, grid); //down
+        dfs(row, col - 1, count, rows, cols, grid); //left
+        dfs(row, col + 1, count, rows, cols, grid); //right
         
     }
 
@@ -32,12 +20,12 @@ public:
         int rows = grid.size();
         int cols = grid[0].size();
         int count = 0;
-        map<pair<int,int>, bool> visited;
+        vector<vector<bool>> visited;
 
         for(int row = 0; row < rows; row++) {
             for(int col = 0; col < cols; col++) {
-                if(grid[row][col] == '1' && !visited[{row, col}]) {
-                    dfs(row, col, visited, count, rows, cols, grid);
+                if(grid[row][col] == '1') {
+                    dfs(row, col, count, rows, cols, grid);
                     count++;
                 }
             }
