@@ -7,9 +7,8 @@ public:
         int minutes = 0;
         int fresh = 0;
         queue<pair<int,int>> q;
-        set<vector<int>> visited;
 
-        //find rotten to spread... if there are several they start rotting at same time so we fill the queue with all initially rotten oranges 
+        //find rotten to spread... if there are several they start rotting at same time so we fill the queue with all initially rotten oranges this is called multi-source BFS
         for(int i = 0; i < rows; i++) {
             for(int j= 0; j < cols; j++) {
                 if(grid[i][j] == 2) q.push({i, j});
@@ -22,30 +21,31 @@ public:
             bool change = false;
             while(size--) {
                 pair<int,int> curr = q.front(); q.pop();
-                if(visited.count({curr.first, curr.second})) continue;
-                visited.insert({curr.first, curr.second});
+                if(grid[curr.first][curr.second] == 0) continue;
+                grid[curr.first][curr.second] = 3;
 
                 //check 4-directionally ajacent add them to q
+                //let 3 be visisted and rotten so we dont have to use a visited set
                 if(curr.first > 0 && grid[curr.first-1][curr.second] == 1) { //up
-                    grid[curr.first-1][curr.second] = 2; fresh--;
+                    grid[curr.first-1][curr.second] = 3; fresh--;
                     q.push({curr.first-1, curr.second});
                     change = true;
                 }
 
                 if(curr.second > 0 && grid[curr.first][curr.second-1] == 1) { //left
-                    grid[curr.first][curr.second-1] = 2; fresh--;
+                    grid[curr.first][curr.second-1] = 3; fresh--;
                     q.push({curr.first, curr.second-1});
                     change = true;
                 }
 
                 if(curr.first < rows-1 && grid[curr.first+1][curr.second] == 1) { //down
-                    grid[curr.first+1][curr.second] = 2; fresh--;
+                    grid[curr.first+1][curr.second] = 3; fresh--;
                     q.push({curr.first+1, curr.second});
                     change = true;
                 }
 
                 if(curr.second < cols-1 && grid[curr.first][curr.second+1] == 1) { //right
-                    grid[curr.first][curr.second+1] = 2; fresh--;
+                    grid[curr.first][curr.second+1] = 3; fresh--;
                     q.push({curr.first, curr.second+1});
                     change = true;
                 }
