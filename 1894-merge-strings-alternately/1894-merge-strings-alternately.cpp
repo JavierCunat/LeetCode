@@ -1,6 +1,5 @@
 class Solution {
 public:
-//reviewed on 3/18/2025
     string mergeAlternately(string word1, string word2) {
         //optomized version
         string res = "";
