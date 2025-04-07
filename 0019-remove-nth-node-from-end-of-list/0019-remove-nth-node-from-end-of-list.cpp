@@ -10,6 +10,8 @@
  */
 class Solution {
 public:
+
+//Reviewed on 04/07/2025
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         int counter = 0;
         ListNode* dummy = head;
