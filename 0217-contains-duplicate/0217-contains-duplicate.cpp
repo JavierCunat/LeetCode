@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //Reviewed on 04/12/2025
     bool containsDuplicate(vector<int>& nums) {
         if(nums.size() <= 1) {
             return false; //short circuit
