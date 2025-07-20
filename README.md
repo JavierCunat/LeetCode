@@ -4,6 +4,7 @@ Completing LeetCode 75🎯
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/JavierCunat/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
