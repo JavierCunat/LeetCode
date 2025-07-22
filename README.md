@@ -20,6 +20,7 @@ Completing LeetCode 75🎯
 | [0198-house-robber](https://github.com/JavierCunat/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/JavierCunat/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/JavierCunat/LeetCode/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/JavierCunat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/JavierCunat/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -106,6 +107,7 @@ Completing LeetCode 75🎯
 | [0283-move-zeroes](https://github.com/JavierCunat/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
+| [0494-target-sum](https://github.com/JavierCunat/LeetCode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JavierCunat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JavierCunat/LeetCode/tree/master/0724-find-pivot-index) |
@@ -376,6 +378,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JavierCunat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/JavierCunat/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/JavierCunat/LeetCode/tree/master/0494-target-sum) |
 ## Graph
 |  |
 | ------- |
