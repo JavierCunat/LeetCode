@@ -26,6 +26,7 @@ Completing LeetCode 75🎯
 | [0806-domino-and-tromino-tiling](https://github.com/JavierCunat/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JavierCunat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -74,6 +75,7 @@ Completing LeetCode 75🎯
 | [0649-dota2-senate](https://github.com/JavierCunat/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JavierCunat/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JavierCunat/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
