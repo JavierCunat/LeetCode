@@ -3,22 +3,38 @@
 class Twitter {
 private:
     unordered_map<int, set<int>> userToFollows;
-    vector<pair<int,int>> allTweets;
+    unordered_map<int, vector<pair<int, int>>> tweetMap;
+    int time = 0;
 public:
     
     void postTweet(int userId, int tweetId) {
-        allTweets.push_back({userId, tweetId});
+        time++;
+        tweetMap[userId].push_back({time, tweetId});
     }
     
     vector<int> getNewsFeed(int userId) {
         vector<int> res;
-        for(int i = allTweets.size()-1; i >= 0; i--) {
-            if(res.size() == 10) break;
-
-            if(userToFollows[userId].count(allTweets[i].first) || userId == allTweets[i].first) {
-                res.push_back(allTweets[i].second);
+        priority_queue<pair<int,int>> pq;
+        
+        if(tweetMap.find(userId) != tweetMap.end()) {
+            for(int i = 0; i < tweetMap[userId].size(); i++) {
+                pq.push(tweetMap[userId][i]);
             }
         }
+
+        for(auto it : userToFollows[userId]) {
+            if(tweetMap.find(it) != tweetMap.end()) {
+                for(int i = 0; i < tweetMap[it].size(); i++) {
+                    pq.push(tweetMap[it][i]);
+                }
+            }
+        }
+
+        while(!pq.empty() && res.size()<10) {
+            res.push_back(pq.top().second);
+            pq.pop();
+        }
+
         return res;
     }
     
