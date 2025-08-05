@@ -10,6 +10,7 @@
  * };
  */
 class Solution {
+//reviewed on 8/4/2025
 public:
     bool isBalanced(TreeNode* root) {
     if (root == nullptr) return true;
