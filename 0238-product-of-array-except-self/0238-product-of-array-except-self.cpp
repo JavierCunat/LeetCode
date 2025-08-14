@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //reviewed on 8/13/2025
     vector<int> productExceptSelf(vector<int>& nums) {
         //beats 100% most optimal
         int size = nums.size();
