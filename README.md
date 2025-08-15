@@ -5,6 +5,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/JavierCunat/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
@@ -97,6 +98,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0001-two-sum](https://github.com/JavierCunat/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JavierCunat/LeetCode/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JavierCunat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -338,6 +340,7 @@ Completing LeetCode 75🎯
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/JavierCunat/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/JavierCunat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
