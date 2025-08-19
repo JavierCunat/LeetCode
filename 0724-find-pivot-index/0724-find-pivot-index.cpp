@@ -1,6 +1,7 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
+       //reviewed on 8/18/2025
        //optimized to O(n) by keeping a prefix sum of array
        int size = nums.size();
        int lhs = 0;
