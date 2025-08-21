@@ -4,6 +4,7 @@ public:
         size_t flips = 0;
         while(a > 0 || b > 0 || c > 0) {
             //extract the LSB of each int
+            //reviewed 8/20/2025
             int bit_a = a & 1;
             int bit_b = b & 1;
             int bit_c = c & 1;
