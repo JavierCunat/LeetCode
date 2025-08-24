@@ -16,6 +16,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/JavierCunat/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JavierCunat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JavierCunat/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -68,6 +69,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JavierCunat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/JavierCunat/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/JavierCunat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
