@@ -438,4 +438,8 @@ Completing LeetCode 75🎯
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/JavierCunat/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/JavierCunat/LeetCode/tree/master/1397-search-suggestions-system) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/JavierCunat/LeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
