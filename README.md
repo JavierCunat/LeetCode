@@ -24,6 +24,7 @@ Completing LeetCode 75🎯
 | [0338-counting-bits](https://github.com/JavierCunat/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/JavierCunat/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/JavierCunat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/JavierCunat/LeetCode/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/JavierCunat/LeetCode/tree/master/0740-delete-and-earn) |
@@ -121,6 +122,7 @@ Completing LeetCode 75🎯
 | [0334-increasing-triplet-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/JavierCunat/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/JavierCunat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/JavierCunat/LeetCode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
