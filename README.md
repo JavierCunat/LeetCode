@@ -124,6 +124,7 @@ Completing LeetCode 75🎯
 | [0410-split-array-largest-sum](https://github.com/JavierCunat/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/JavierCunat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JavierCunat/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/JavierCunat/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JavierCunat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
@@ -185,6 +186,7 @@ Completing LeetCode 75🎯
 | [0215-kth-largest-element-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JavierCunat/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1397-search-suggestions-system](https://github.com/JavierCunat/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -300,6 +302,7 @@ Completing LeetCode 75🎯
 | [0334-increasing-triplet-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/JavierCunat/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JavierCunat/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/JavierCunat/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
