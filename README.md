@@ -131,6 +131,7 @@ Completing LeetCode 75🎯
 | [0643-maximum-average-subarray-i](https://github.com/JavierCunat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JavierCunat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/JavierCunat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
@@ -363,6 +364,7 @@ Completing LeetCode 75🎯
 | [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/JavierCunat/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
@@ -450,4 +452,8 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [1827-invalid-tweets](https://github.com/JavierCunat/LeetCode/tree/master/1827-invalid-tweets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
