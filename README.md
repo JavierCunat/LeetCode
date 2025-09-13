@@ -27,6 +27,7 @@ Completing LeetCode 75🎯
 | [0416-partition-equal-subset-sum](https://github.com/JavierCunat/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/JavierCunat/LeetCode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JavierCunat/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/JavierCunat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/JavierCunat/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -39,6 +40,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JavierCunat/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
@@ -129,6 +131,7 @@ Completing LeetCode 75🎯
 | [0560-subarray-sum-equals-k](https://github.com/JavierCunat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JavierCunat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JavierCunat/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/JavierCunat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
@@ -381,6 +384,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0136-single-number](https://github.com/JavierCunat/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/JavierCunat/LeetCode/tree/master/0338-counting-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JavierCunat/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JavierCunat/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/JavierCunat/LeetCode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Design
@@ -426,6 +430,7 @@ Completing LeetCode 75🎯
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JavierCunat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/JavierCunat/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/JavierCunat/LeetCode/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JavierCunat/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Graph
 |  |
 | ------- |
@@ -456,4 +461,8 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/JavierCunat/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
