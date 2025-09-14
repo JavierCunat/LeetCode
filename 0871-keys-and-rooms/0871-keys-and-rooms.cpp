@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
+        //reviewed on 9/13/2025
         //dfs approach that is simple
         int n = rooms.size();
         stack<int> stack;
