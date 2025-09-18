@@ -371,6 +371,7 @@ Completing LeetCode 75🎯
 | [0394-decode-string](https://github.com/JavierCunat/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/JavierCunat/LeetCode/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
@@ -395,6 +396,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/JavierCunat/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/JavierCunat/LeetCode/tree/master/0355-design-twitter) |
+| [0937-online-stock-span](https://github.com/JavierCunat/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/JavierCunat/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1512-design-underground-system](https://github.com/JavierCunat/LeetCode/tree/master/1512-design-underground-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/JavierCunat/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -406,6 +408,7 @@ Completing LeetCode 75🎯
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/JavierCunat/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/JavierCunat/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Interactive
 |  |
@@ -465,6 +468,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/JavierCunat/LeetCode/tree/master/0937-online-stock-span) |
 ## Bitmask
 |  |
 | ------- |
