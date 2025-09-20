@@ -85,6 +85,7 @@ Completing LeetCode 75🎯
 | [0443-string-compression](https://github.com/JavierCunat/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/JavierCunat/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0851-goat-latin](https://github.com/JavierCunat/LeetCode/tree/master/0851-goat-latin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/JavierCunat/LeetCode/tree/master/1397-search-suggestions-system) |
