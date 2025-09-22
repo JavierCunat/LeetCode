@@ -155,6 +155,7 @@ Completing LeetCode 75🎯
 | [1925-count-nice-pairs-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/JavierCunat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2169-simple-bank-system](https://github.com/JavierCunat/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JavierCunat/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -164,6 +165,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
+| [2169-simple-bank-system](https://github.com/JavierCunat/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -186,6 +188,7 @@ Completing LeetCode 75🎯
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2169-simple-bank-system](https://github.com/JavierCunat/LeetCode/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/JavierCunat/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -402,6 +405,7 @@ Completing LeetCode 75🎯
 | [0937-online-stock-span](https://github.com/JavierCunat/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/JavierCunat/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1512-design-underground-system](https://github.com/JavierCunat/LeetCode/tree/master/1512-design-underground-system) |
+| [2169-simple-bank-system](https://github.com/JavierCunat/LeetCode/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/JavierCunat/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
