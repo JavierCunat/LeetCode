@@ -225,6 +225,7 @@ Completing LeetCode 75🎯
 | [0437-path-sum-iii](https://github.com/JavierCunat/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/JavierCunat/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/JavierCunat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/JavierCunat/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -288,6 +289,7 @@ Completing LeetCode 75🎯
 | [0437-path-sum-iii](https://github.com/JavierCunat/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/JavierCunat/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/JavierCunat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/JavierCunat/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -333,6 +335,7 @@ Completing LeetCode 75🎯
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/JavierCunat/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/JavierCunat/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Linked List
 |  |
