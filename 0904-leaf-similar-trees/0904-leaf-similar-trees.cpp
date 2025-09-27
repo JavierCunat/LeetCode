@@ -12,6 +12,7 @@
 class Solution {
 public:
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
+        //Reviewed 9/26/2025
         //apparently with arrays like this is the best approach O(n+m) n size of tree 1 m size of tree 2 beats 100%
         vector<int> tree1, tree2;
         treeLeaves(root1, tree1);
