@@ -141,6 +141,7 @@ Completing LeetCode 75🎯
 | [0740-delete-and-earn](https://github.com/JavierCunat/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
+| [0906-walking-robot-simulation](https://github.com/JavierCunat/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/JavierCunat/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JavierCunat/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/JavierCunat/LeetCode/tree/master/1036-rotting-oranges) |
@@ -165,6 +166,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
+| [0906-walking-robot-simulation](https://github.com/JavierCunat/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2169-simple-bank-system](https://github.com/JavierCunat/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -181,6 +183,7 @@ Completing LeetCode 75🎯
 | [0355-design-twitter](https://github.com/JavierCunat/LeetCode/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/JavierCunat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/JavierCunat/LeetCode/tree/master/0740-delete-and-earn) |
+| [0906-walking-robot-simulation](https://github.com/JavierCunat/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JavierCunat/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/JavierCunat/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JavierCunat/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
