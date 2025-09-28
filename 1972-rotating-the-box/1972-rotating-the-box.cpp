@@ -1,7 +1,8 @@
 class Solution {
 public:
     vector<vector<char>> rotateTheBox(vector<vector<char>>& boxGrid) {
-       int m = boxGrid.size();
+        //reviewed 9/27/2025
+    int m = boxGrid.size();
     int n = boxGrid[0].size();
 
     // Step 1: Simulate gravity in original rows BEFORE rotation
