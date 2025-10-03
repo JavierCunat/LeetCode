@@ -1,6 +1,7 @@
 class Solution {
 public:
     int nearestExit(vector<vector<char>>& maze, vector<int>& entrance) {
+        //reviewed 10/3/2025
         //shortest path algo using BFS with queue step one direction each time until find first exit
         //use in-place marking visited to reduce O(log n) time from using .count() and size/space of the set
         queue<vector<int>> q;
