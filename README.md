@@ -134,6 +134,7 @@ Completing LeetCode 75🎯
 | [0560-subarray-sum-equals-k](https://github.com/JavierCunat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JavierCunat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/JavierCunat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/JavierCunat/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/JavierCunat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
@@ -252,6 +253,7 @@ Completing LeetCode 75🎯
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/JavierCunat/LeetCode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JavierCunat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/JavierCunat/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -272,6 +274,7 @@ Completing LeetCode 75🎯
 | [0226-invert-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JavierCunat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/JavierCunat/LeetCode/tree/master/1036-rotting-oranges) |
@@ -397,6 +400,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/JavierCunat/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/JavierCunat/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/JavierCunat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/JavierCunat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -471,6 +475,7 @@ Completing LeetCode 75🎯
 | [0200-number-of-islands](https://github.com/JavierCunat/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JavierCunat/LeetCode/tree/master/0695-max-area-of-island) |
 ## Shortest Path
 |  |
 | ------- |
