@@ -1,6 +1,7 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
+        //reviewed 10/14/2025
         int maxAmount = 0;
         int size = nums.size();
         vector<int> dp(size + 1, 0);
