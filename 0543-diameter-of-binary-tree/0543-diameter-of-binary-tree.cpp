@@ -11,22 +11,18 @@
  */
 class Solution {
 public:
-    int depth(TreeNode* root) {
-        if(root == nullptr) return 0;
-
-        return 1 + max(depth(root->left), depth(root->right));
+    int depth(TreeNode* curr, int& res) {
+        if(!curr) return 0;
+        int L = depth(curr->left, res);
+        int R = depth(curr->right, res);
+        res = max(res, L+R);
+        return 1 + max(L, R);
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        //get len of longest left and longest right using max add them thats diameter
-        if(root == nullptr) return 0;
-
-        int throughRoot = depth(root->left) + depth(root->right);
-
-        int leftSubTree = diameterOfBinaryTree(root->left);
-
-        int rightSubTree = diameterOfBinaryTree(root->right);
-
-        return max(throughRoot, max(leftSubTree, rightSubTree));
+        //dfs and update best
+        int res = 0;
+        depth(root, res);
+        return res;
     }
 };
