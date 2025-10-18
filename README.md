@@ -49,6 +49,7 @@ Completing LeetCode 75🎯
 | [0011-container-with-most-water](https://github.com/JavierCunat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JavierCunat/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JavierCunat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -112,6 +113,7 @@ Completing LeetCode 75🎯
 | [0001-two-sum](https://github.com/JavierCunat/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JavierCunat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JavierCunat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +204,7 @@ Completing LeetCode 75🎯
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/JavierCunat/LeetCode/tree/master/0217-contains-duplicate) |
