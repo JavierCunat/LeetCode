@@ -1,27 +1,19 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i = 0, j = 0;
-        vector<int> sorted;
-        sorted.reserve(m + n);
-
-        while(i < m && j < n) {
-            if(nums1[i] <= nums2[j]) {
-                sorted.push_back(nums1[i++]);
+        //use the back half of the nums1 list to store the extra nums
+        int i = m-1, j=n-1, k=m+n-1;
+        while(i >= 0 && j >= 0) {
+            if(nums1[i] >= nums2[j]) {
+                nums1[k] = nums1[i--];
             } else {
-                sorted.push_back(nums2[j++]);
+                nums1[k] = nums2[j--];
             }
+            k--;
         }
 
-        while(i < m) {
-            sorted.push_back(nums1[i++]);
+        while(j >= 0) {
+            nums1[k--] = nums2[j--];
         }
-
-        while(j < n) {
-            sorted.push_back(nums2[j++]);
-        }
-
-
-        nums1 = sorted;
     }
 };
