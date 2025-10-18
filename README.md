@@ -75,6 +75,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JavierCunat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0071-simplify-path](https://github.com/JavierCunat/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/JavierCunat/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/JavierCunat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -396,6 +397,7 @@ Completing LeetCode 75🎯
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/JavierCunat/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/JavierCunat/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
