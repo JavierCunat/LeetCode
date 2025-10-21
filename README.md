@@ -91,6 +91,7 @@ Completing LeetCode 75🎯
 | [0851-goat-latin](https://github.com/JavierCunat/LeetCode/tree/master/0851-goat-latin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JavierCunat/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/JavierCunat/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1512-design-underground-system](https://github.com/JavierCunat/LeetCode/tree/master/1512-design-underground-system) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/JavierCunat/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -412,6 +413,7 @@ Completing LeetCode 75🎯
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/JavierCunat/LeetCode/tree/master/0937-online-stock-span) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JavierCunat/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
