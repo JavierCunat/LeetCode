@@ -13,6 +13,7 @@ public:
         double base = x;
         double res = 1.0;
 
+        //fast exponentiation O(nlogn)
         while(N > 0) {
             if(N & 1) res*=base;
             base *= base;
