@@ -6,6 +6,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0009-palindrome-number](https://github.com/JavierCunat/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/JavierCunat/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
@@ -225,6 +226,7 @@ Completing LeetCode 75🎯
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/JavierCunat/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/JavierCunat/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
