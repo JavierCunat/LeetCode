@@ -9,6 +9,7 @@ Completing LeetCode 75🎯
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -151,6 +152,7 @@ Completing LeetCode 75🎯
 | [0906-walking-robot-simulation](https://github.com/JavierCunat/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/JavierCunat/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JavierCunat/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/JavierCunat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/JavierCunat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -214,6 +216,7 @@ Completing LeetCode 75🎯
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JavierCunat/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/JavierCunat/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/JavierCunat/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -356,6 +359,7 @@ Completing LeetCode 75🎯
 | [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -465,6 +469,7 @@ Completing LeetCode 75🎯
 | [0215-kth-largest-element-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/JavierCunat/LeetCode/tree/master/0355-design-twitter) |
 | [0948-sort-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/JavierCunat/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/JavierCunat/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JavierCunat/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -473,6 +478,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Ordered Set
 |  |
 | ------- |
@@ -537,4 +543,8 @@ Completing LeetCode 75🎯
 | ------- |
 | [0146-lru-cache](https://github.com/JavierCunat/LeetCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
