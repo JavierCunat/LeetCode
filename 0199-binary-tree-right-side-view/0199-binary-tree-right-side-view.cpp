@@ -11,29 +11,23 @@
  */
 class Solution {
 public:
-//reviewed 8/31/2025
     vector<int> rightSideView(TreeNode* root) {
-        //level order traversal and print the rightmost node aka last one in the queue
-        queue<TreeNode*> q;
         vector<int> res;
-
-        if(root == nullptr) return res;
+        if(!root) return res;
+        queue<TreeNode*> q;
         q.push(root);
 
         while(!q.empty()) {
-            int size = q.size();
-
-            for(size_t i = 0; i < size; i++) {
-                TreeNode* node = q.front();
-                q.pop();
-
-                if(i == size-1) {
-                    res.push_back(node->val);
-                }
-                
-                if(node->left != nullptr) q.push(node->left);
-                if(node->right != nullptr) q.push(node->right);
+            int s = q.size();
+            stack<TreeNode*> stack;
+            for(int i = 0; i < s; i++) {
+                TreeNode* cur = q.front(); q.pop();
+                if(!cur) continue;
+                stack.push(cur);
+                q.push(cur->left);
+                q.push(cur->right);
             }
+            if(!stack.empty()) res.push_back((stack.top())->val);
         }
 
         return res;
