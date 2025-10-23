@@ -116,6 +116,7 @@ Completing LeetCode 75🎯
 | [0001-two-sum](https://github.com/JavierCunat/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JavierCunat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JavierCunat/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
@@ -209,6 +210,7 @@ Completing LeetCode 75🎯
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
