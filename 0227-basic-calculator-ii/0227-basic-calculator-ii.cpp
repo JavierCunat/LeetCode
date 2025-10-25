@@ -11,9 +11,10 @@ public:
         for(int i = 0; i < len; i++) {
             char currChar = s[i];
             if(isdigit(currChar)) {
-                currNum = (currNum * 10) + (currChar - '0');
+                currNum = (currNum * 10) + (currChar - '0'); //handle numbers with more than one digit
             }
             if(!isdigit(currChar) && !iswspace(currChar) || i == len-1) {
+                //keep track of previous operatior
                 if(op == '-') {
                     stack.push(-currNum);
                 } else if(op == '+') {
