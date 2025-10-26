@@ -93,6 +93,7 @@ Completing LeetCode 75🎯
 | [0443-string-compression](https://github.com/JavierCunat/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/JavierCunat/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0807-custom-sort-string](https://github.com/JavierCunat/LeetCode/tree/master/0807-custom-sort-string) |
 | [0851-goat-latin](https://github.com/JavierCunat/LeetCode/tree/master/0851-goat-latin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -204,6 +205,7 @@ Completing LeetCode 75🎯
 | [0355-design-twitter](https://github.com/JavierCunat/LeetCode/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/JavierCunat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/JavierCunat/LeetCode/tree/master/0740-delete-and-earn) |
+| [0807-custom-sort-string](https://github.com/JavierCunat/LeetCode/tree/master/0807-custom-sort-string) |
 | [0906-walking-robot-simulation](https://github.com/JavierCunat/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JavierCunat/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/JavierCunat/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -228,6 +230,7 @@ Completing LeetCode 75🎯
 | [0435-non-overlapping-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JavierCunat/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/JavierCunat/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0807-custom-sort-string](https://github.com/JavierCunat/LeetCode/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/JavierCunat/LeetCode/tree/master/1397-search-suggestions-system) |
