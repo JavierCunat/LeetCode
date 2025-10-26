@@ -197,6 +197,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0001-two-sum](https://github.com/JavierCunat/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JavierCunat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/JavierCunat/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/JavierCunat/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/JavierCunat/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -395,6 +396,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JavierCunat/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/JavierCunat/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/JavierCunat/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/JavierCunat/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/0206-reverse-linked-list) |
