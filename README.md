@@ -10,6 +10,7 @@ Completing LeetCode 75🎯
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/JavierCunat/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0912-random-pick-with-weight](https://github.com/JavierCunat/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -160,6 +161,7 @@ Completing LeetCode 75🎯
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/JavierCunat/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/JavierCunat/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/JavierCunat/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/JavierCunat/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JavierCunat/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -355,6 +357,7 @@ Completing LeetCode 75🎯
 | [0611-valid-triangle-number](https://github.com/JavierCunat/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/JavierCunat/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/JavierCunat/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/JavierCunat/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/JavierCunat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/JavierCunat/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JavierCunat/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -417,6 +420,7 @@ Completing LeetCode 75🎯
 | [0410-split-array-largest-sum](https://github.com/JavierCunat/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JavierCunat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JavierCunat/LeetCode/tree/master/0724-find-pivot-index) |
+| [0912-random-pick-with-weight](https://github.com/JavierCunat/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JavierCunat/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/JavierCunat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/JavierCunat/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -582,4 +586,8 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JavierCunat/LeetCode/tree/master/0207-course-schedule) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/JavierCunat/LeetCode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
