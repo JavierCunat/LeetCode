@@ -53,6 +53,7 @@ Completing LeetCode 75🎯
 | [0011-container-with-most-water](https://github.com/JavierCunat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JavierCunat/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/JavierCunat/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/JavierCunat/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JavierCunat/LeetCode/tree/master/0125-valid-palindrome) |
@@ -120,6 +121,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0001-two-sum](https://github.com/JavierCunat/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JavierCunat/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/JavierCunat/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0056-merge-intervals) |
