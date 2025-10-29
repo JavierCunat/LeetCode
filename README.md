@@ -10,6 +10,7 @@ Completing LeetCode 75🎯
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/JavierCunat/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0415-add-strings](https://github.com/JavierCunat/LeetCode/tree/master/0415-add-strings) |
 | [0912-random-pick-with-weight](https://github.com/JavierCunat/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -92,6 +93,7 @@ Completing LeetCode 75🎯
 | [0392-is-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/JavierCunat/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
+| [0415-add-strings](https://github.com/JavierCunat/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/JavierCunat/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/JavierCunat/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -190,6 +192,7 @@ Completing LeetCode 75🎯
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/JavierCunat/LeetCode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/JavierCunat/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2169-simple-bank-system](https://github.com/JavierCunat/LeetCode/tree/master/2169-simple-bank-system) |
