@@ -85,6 +85,7 @@ Completing LeetCode 75🎯
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/JavierCunat/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/JavierCunat/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/JavierCunat/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/JavierCunat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/JavierCunat/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -205,6 +206,7 @@ Completing LeetCode 75🎯
 | ------- |
 | [0001-two-sum](https://github.com/JavierCunat/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JavierCunat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/JavierCunat/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/JavierCunat/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/JavierCunat/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
@@ -437,6 +439,7 @@ Completing LeetCode 75🎯
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/JavierCunat/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/JavierCunat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/JavierCunat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JavierCunat/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
