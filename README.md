@@ -302,6 +302,7 @@ Completing LeetCode 75🎯
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JavierCunat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0801-is-graph-bipartite](https://github.com/JavierCunat/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/JavierCunat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/JavierCunat/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -323,6 +324,7 @@ Completing LeetCode 75🎯
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JavierCunat/LeetCode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/JavierCunat/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/JavierCunat/LeetCode/tree/master/1036-rotting-oranges) |
@@ -542,6 +544,7 @@ Completing LeetCode 75🎯
 | [0207-course-schedule](https://github.com/JavierCunat/LeetCode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/JavierCunat/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JavierCunat/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
@@ -551,6 +554,7 @@ Completing LeetCode 75🎯
 | [0399-evaluate-division](https://github.com/JavierCunat/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JavierCunat/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JavierCunat/LeetCode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/JavierCunat/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Shortest Path
 |  |
 | ------- |
