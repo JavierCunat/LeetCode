@@ -11,6 +11,7 @@ Completing LeetCode 75🎯
 | [0202-happy-number](https://github.com/JavierCunat/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/JavierCunat/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/JavierCunat/LeetCode/tree/master/0415-add-strings) |
+| [0670-maximum-swap](https://github.com/JavierCunat/LeetCode/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/JavierCunat/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/JavierCunat/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/JavierCunat/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -388,6 +389,7 @@ Completing LeetCode 75🎯
 | [0605-can-place-flowers](https://github.com/JavierCunat/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/JavierCunat/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/JavierCunat/LeetCode/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/JavierCunat/LeetCode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2636-maximum-subsequence-score](https://github.com/JavierCunat/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/JavierCunat/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
