@@ -12,42 +12,24 @@
 class Solution {
 public:
 
-    static int dfs(TreeNode* root, int& sum, int& count) {
-        if (!root) { sum = 0; count = 0; return 0; }
+    static pair<int,int> dfs(TreeNode* root, int& res) {
+       if(!root) return {0, 0};
 
-        int lSum = 0, lCnt = 0;
-        int rSum = 0, rCnt = 0;
+       auto [lSum, lCnt] = dfs(root->left, res);
+       auto [rSum, rCnt] = dfs(root->right, res);
 
-        dfs(root->left, lSum, lCnt);
-        dfs(root->right, rSum, rCnt);
+       int sum = lSum + rSum + root->val;
+       int cnt = lCnt + rCnt + 1;
 
-        sum = lSum + rSum + root->val;
-        count = lCnt + rCnt + 1;
+       if(sum / cnt == root->val) res++;
 
-        return sum;
+       return {sum, cnt};
     }
 
     int averageOfSubtree(TreeNode* root) {
-        //do dfs on each subtree root and return the average, if that node root has same average sum increase res+1
+        //do dfs once and get the subtrees sum
         int res = 0;
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while(!q.empty()) {
-            int s = q.size();
-
-            for(int i = 0; i < s; i++) {
-                TreeNode* curr = q.front(); q.pop();
-                int count = 0, sum = 0;
-                dfs(curr, sum, count);
-
-                if( (sum / count) == curr->val) res++;
-
-                if(curr->left) q.push(curr->left);
-                if(curr->right) q.push(curr->right);
-            }
-        }
-
+        dfs(root, res);
         return res;
     }
 };
