@@ -21,6 +21,7 @@ Completing LeetCode 75🎯
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JavierCunat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/JavierCunat/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/JavierCunat/LeetCode/tree/master/0118-pascals-triangle) |
@@ -57,6 +58,7 @@ Completing LeetCode 75🎯
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JavierCunat/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/JavierCunat/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/JavierCunat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/JavierCunat/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JavierCunat/LeetCode/tree/master/0125-valid-palindrome) |
@@ -131,6 +133,7 @@ Completing LeetCode 75🎯
 | [0011-container-with-most-water](https://github.com/JavierCunat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/JavierCunat/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JavierCunat/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/JavierCunat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/JavierCunat/LeetCode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/JavierCunat/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JavierCunat/LeetCode/tree/master/0075-sort-colors) |
@@ -480,6 +483,7 @@ Completing LeetCode 75🎯
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JavierCunat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/JavierCunat/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/JavierCunat/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -601,6 +605,7 @@ Completing LeetCode 75🎯
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JavierCunat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/JavierCunat/LeetCode/tree/master/0937-online-stock-span) |
 ## Bitmask
