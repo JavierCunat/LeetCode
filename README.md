@@ -116,6 +116,7 @@ Completing LeetCode 75🎯
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JavierCunat/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/JavierCunat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/JavierCunat/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JavierCunat/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -196,6 +197,7 @@ Completing LeetCode 75🎯
 | [1972-rotating-the-box](https://github.com/JavierCunat/LeetCode/tree/master/1972-rotating-the-box) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/JavierCunat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2169-simple-bank-system](https://github.com/JavierCunat/LeetCode/tree/master/2169-simple-bank-system) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JavierCunat/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/JavierCunat/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -239,6 +241,7 @@ Completing LeetCode 75🎯
 | [1798-max-number-of-k-sum-pairs](https://github.com/JavierCunat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/JavierCunat/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2169-simple-bank-system](https://github.com/JavierCunat/LeetCode/tree/master/2169-simple-bank-system) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JavierCunat/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2413-smallest-number-in-infinite-set](https://github.com/JavierCunat/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -580,6 +583,7 @@ Completing LeetCode 75🎯
 | [0801-is-graph-bipartite](https://github.com/JavierCunat/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/JavierCunat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JavierCunat/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JavierCunat/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Union Find
 |  |
 | ------- |
@@ -638,6 +642,7 @@ Completing LeetCode 75🎯
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JavierCunat/LeetCode/tree/master/0207-course-schedule) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JavierCunat/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Randomized
 |  |
 | ------- |
