@@ -107,6 +107,7 @@ Completing LeetCode 75🎯
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/JavierCunat/LeetCode/tree/master/0807-custom-sort-string) |
 | [0851-goat-latin](https://github.com/JavierCunat/LeetCode/tree/master/0851-goat-latin) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/JavierCunat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/JavierCunat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JavierCunat/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -419,6 +420,7 @@ Completing LeetCode 75🎯
 | [0649-dota2-senate](https://github.com/JavierCunat/LeetCode/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/JavierCunat/LeetCode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/JavierCunat/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/JavierCunat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2636-maximum-subsequence-score](https://github.com/JavierCunat/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/JavierCunat/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Divide and Conquer
@@ -495,6 +497,7 @@ Completing LeetCode 75🎯
 | [0735-asteroid-collision](https://github.com/JavierCunat/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JavierCunat/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/JavierCunat/LeetCode/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/JavierCunat/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/JavierCunat/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JavierCunat/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JavierCunat/LeetCode/tree/master/2470-removing-stars-from-a-string) |
