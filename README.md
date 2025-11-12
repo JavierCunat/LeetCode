@@ -21,6 +21,7 @@ Completing LeetCode 75🎯
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/JavierCunat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JavierCunat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/JavierCunat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/JavierCunat/LeetCode/tree/master/0072-edit-distance) |
@@ -89,6 +90,7 @@ Completing LeetCode 75🎯
 | [0003-longest-substring-without-repeating-characters](https://github.com/JavierCunat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JavierCunat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JavierCunat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/JavierCunat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/JavierCunat/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/JavierCunat/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/JavierCunat/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -488,6 +490,7 @@ Completing LeetCode 75🎯
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/JavierCunat/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JavierCunat/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/JavierCunat/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/JavierCunat/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
