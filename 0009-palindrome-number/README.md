@@ -9,7 +9,7 @@
 <strong>Explanation:</strong> 121 reads as 121 from left to right and from right to left.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class="example">Example 2:</stronggg></p>
 
 <pre>
 <strong>Input:</strong> x = -121
