@@ -46,6 +46,7 @@ Completing LeetCode 75🎯
 | [1250-longest-common-subsequence](https://github.com/JavierCunat/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/JavierCunat/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JavierCunat/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2648-number-of-ways-to-earn-points](https://github.com/JavierCunat/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 ## Memoization
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Completing LeetCode 75🎯
 | [2428-equal-row-and-column-pairs](https://github.com/JavierCunat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/JavierCunat/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/JavierCunat/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2648-number-of-ways-to-earn-points](https://github.com/JavierCunat/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 ## Simulation
 |  |
 | ------- |
