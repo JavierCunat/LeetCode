@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
+        //reviewed 11/21/2025
         //brute force beats 46% in O(n) by storing the min (i), a flag bool and the prev var (j)
         //changed to use best approach by storing (i) min and (j) mid
         int size = nums.size();
