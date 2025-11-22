@@ -1,18 +1,18 @@
 class Solution {
 public:
-    //review 3/3/2025
     int climbStairs(int n) {
-        map<int,int> memo = { {0, 0}, {1,1}, {2,2}, {3,3} }; 
-        return climbStairsHelper(n, memo);
-    }
+        vector<int> dp(n+1, 0);
+        //base cases
+        dp[0] = 0; 
+        if (n <= 1) return 1;
+        dp[1] = 1;
+        if (n == 2) return 2;
+        dp[2] = 2;
 
-    int climbStairsHelper(int n, map<int,int>& memo) {
-        if(memo.count(n) > 0) {
-            return memo[n];
-        } else{
-            int result = climbStairsHelper(n-1, memo) + climbStairsHelper(n-2, memo);
-            memo[n] = result;
-            return result;
+        for(int i = 3; i <= n; i++) {
+            dp[i] = dp[i-2] + dp[i-1]; //can climb one step or two at time
         }
+
+        return dp[n];
     }
 };
