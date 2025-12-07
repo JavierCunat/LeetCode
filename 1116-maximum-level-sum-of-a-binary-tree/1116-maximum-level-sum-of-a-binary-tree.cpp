@@ -12,7 +12,7 @@
 class Solution {
 private:
     void dfs(vector<int>& level_sum, int cur_level, TreeNode *root) {
-        //reviewed 12/6/2025
+        //reviewed 12/6/2025. BFS would be more simple don't even need a list, after every level just check if that is the max seen so far.
         if (!root) return;
 
         if (level_sum.size() <= cur_level) {
