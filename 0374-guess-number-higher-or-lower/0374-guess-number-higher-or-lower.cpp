@@ -10,6 +10,7 @@
 class Solution {
 public:
     int guessNumber(int n) {
+        //reviewed 1/11/2026
         int lowerBound = 1;
 
         while(lowerBound <= n) {
