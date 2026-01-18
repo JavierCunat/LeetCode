@@ -10,6 +10,7 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        //reviewed 1/17/2026
         //when root hits nullptr or p/q hits root is the lowest common ancestor
         if(root == nullptr || p == root || q == root) return root;
 
